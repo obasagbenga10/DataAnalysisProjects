@@ -19,8 +19,10 @@ A repository where all my Data Science, Web Development and Native Application D
 1. **LoLa Cloud PCs**: This is a SAAS (Software as a Service) that provides cloud computers to users. It is a dotnet web application that helps manage users cloud computers. [LoLa Cloud PCs front page](https://www.lola-pc.com/) and [LoLa Cloud PCs web application](https://app.lola-pc.com/).
  
 2. **TheHRway**: This a an SAAS HRMS (Human Resource Management System) that is developed for SMEs to manage their employees. It is a PHP web application. [theHRway front site](https://www.thehrway.com) and [theHRway web application Demo Site](https://demo.thehrway.com). If you want to try out theHRway (Username =  Demo User  Password = theHRwayDemo1! ).
+
+3. **TheHRway Partner Site**: This is a web application platform that is used by theHRway Partners to manage their theHRway sites. The site is a C# .NET web application built on the MVC framework. [You can access it here.](https://partners.thehrway.com)
  
-3. **Rossendale Self Storage** (Storage Made Simple): A unit management system for a self storage in Rossendale, Lancashire. It is a dotnet system developed with Blazor.
+4. **Rossendale Self Storage** (Storage Made Simple): A unit management system for a self storage in Rossendale, Lancashire. It is a dotnet system developed with Blazor.
 
 
 ## Native Application Development Projects
